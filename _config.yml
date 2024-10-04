@@ -98,7 +98,7 @@ theme_mode: dark # [light | dark]
 cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: ./images/KakaoTalk_Photo_2024-10-03-12-46-54.jpeg
+avatar: ./assets/img/KakaoTalk_Photo_2024-10-03-12-46-54.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
