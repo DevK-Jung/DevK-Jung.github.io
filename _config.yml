@@ -60,8 +60,8 @@ webmaster_verifications:
 analytics:
   google:
     id: "G-92P16PX9ZN" # fill in your Google Analytics ID
-  goatcounter:
-    id: # fill in your GoatCounter ID
+  goatcounter: 
+    id: "devk-jung" # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -75,7 +75,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: goatcounter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
