@@ -560,10 +560,10 @@ eth_getTransactionReceipt
 
 ---
 
-- https://github.com/DevK-Jung/hardhat-example
+- <https://github.com/DevK-Jung/hardhat-example>
 
 ## Reference
 
 ---
 
-- https://hardhat.org/hardhat-runner/docs/getting-started
+- <https://hardhat.org/hardhat-runner/docs/getting-started>
