@@ -1,6 +1,6 @@
 ---
 title: '[Hedera] Hedera SDK를 활용한 Consensus Service 구현하기'
-date: 2024-12-31 23:00:00 +0900
+date: 2025-01-01 00:38:00 +0900
 categories: [blockchain, hedera]
 tags:
   [
